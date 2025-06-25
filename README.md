@@ -7,7 +7,7 @@ https://www.pythontutorial.net/tkinter/tkinter-event-binding/
 
 https://www.youtube.com/watch?v=mop6g-c5HEY
 
-@ 7:05:35
+@ 8:49:59
 
 ## Project ideas
 [ ] Drawing app
