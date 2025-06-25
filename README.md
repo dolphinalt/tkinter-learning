@@ -7,8 +7,7 @@ https://www.pythontutorial.net/tkinter/tkinter-event-binding/
 
 https://www.youtube.com/watch?v=mop6g-c5HEY
 
-@ 8:49:59
-
+@ 9:03:07
 ## Project ideas
 [ ] Drawing app
 [ ] File searcher
