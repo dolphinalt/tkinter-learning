@@ -9,7 +9,10 @@ https://www.youtube.com/watch?v=mop6g-c5HEY
 
 @ 9:03:07
 ## Project ideas
-[ ] Drawing app
-[ ] File searcher
-[ ] Text editor
-[ ] Aimlabs style game
+ - [ ] Drawing app
+
+ - [ ] File searcher
+
+ - [ ] Text editor
+
+ - [ ] Aimlabs style game
