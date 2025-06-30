@@ -10,7 +10,7 @@ https://customtkinter.tomschimansky.com/documentation/
 
 https://www.youtube.com/watch?v=mop6g-c5HEY
 
-@ 9:03:07
+@ 11:43:03
 ## Project ideas
  - [ ] Drawing app
 
